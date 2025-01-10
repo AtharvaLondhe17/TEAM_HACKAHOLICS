@@ -1,5 +1,7 @@
-#Social Media Performance Analysis
+Social Media Performance Analysis
+
 Overview
+
 This project focuses on analyzing engagement data from mock social media accounts, utilizing DataStax Astra DB for data storage and Langflow for workflow creation. The application is built to be scalable and integrates blockchain for distributed data storage. It leverages NVIDIA embeddings and GROQ model for data processing and analysis. The solution is deployed using Streamlit.
 
 Features
