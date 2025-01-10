@@ -12,7 +12,7 @@ Features
 
 3.NVIDIA Embeddings & GROQ Models: Utilizes NVIDIA embeddings for efficient data processing and GROQ models for advanced analysis.
 
-4.Astra DB & Langflow for ASY Implementation: Data is stored in DataStax Astra DB, and Langflow is used for easy integration and workflow management.
+4.Astra DB & Langflow for Easy Implementation: Data is stored in DataStax Astra DB, and Langflow is used for easy integration and workflow management.
 
 5.Data Visualization: Engagement metrics are visualized for better understanding and decision-making.
 
